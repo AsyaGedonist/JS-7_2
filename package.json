@@ -1,0 +1,26 @@
+{
+  "name": "js-7_2",
+  "version": "1.0.0",
+  "description": "AsyaTamonova",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsyaGedonist/JS-7_2.git"
+  },
+  "author": "AsyaTamonova",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "prettier": "last"
+  },
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
